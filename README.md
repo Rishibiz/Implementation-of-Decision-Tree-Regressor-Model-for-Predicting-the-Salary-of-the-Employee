@@ -17,8 +17,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ```
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: Surjith.D
-RegisterNumber: 212223043006 
+Developed by: Rishi chandran R
+RegisterNumber: 212223043005 
 */
 ```
 ```
@@ -66,8 +66,7 @@ print("Custom prediction for Position 5, Level 6:", custom_prediction)
 ```
 
 ## Output:
-
-![ex 9](https://github.com/user-attachments/assets/d1e617fa-621d-42c3-b33b-23e833caaba8)
+![Screenshot 2025-05-09 085503](https://github.com/user-attachments/assets/b59e4ca6-645f-4bc5-a403-cf48a5b42fb7)
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
